@@ -5,11 +5,11 @@
 This is an addaptive learning platform leverging gamification to engage users.
 There are 3 Type of Users in this application -
 - **Admin** - Admin is the super user in this application with all the powers.
-![Admin Home Screen](https://raw.githubusercontent.com/devashishpant89/images/main/admin.PNG) \
+![Admin Home Screen](https://raw.githubusercontent.com/devashishpant89/images/main/admin.PNG)
 - **Faculty** - Faculty can add, remove, edit and manage Courses, quiz , students.
-![Faculty Home Screen](https://raw.githubusercontent.com/devashishpant89/images/main/faculty.PNG) \
+![Faculty Home Screen](https://raw.githubusercontent.com/devashishpant89/images/main/faculty.PNG)
 - **Student** - Student can participate in the quiz which are assigned to them by the faculties.
-![Student Home Screen](https://raw.githubusercontent.com/devashishpant89/images/main/student.PNG) \
+![Student Home Screen](https://raw.githubusercontent.com/devashishpant89/images/main/student.PNG)
 #### Login as a Student and Take Quiz-
 ![Login as a student](https://raw.githubusercontent.com/devashishpant89/images/main/gif1.1.gif) \
 I have already created a few students in our database. Their login credentials are given below :
